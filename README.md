@@ -1,4 +1,4 @@
-# Housing Prices EDA - ML Intern Assessment
+# Housing Prices EDA - Machine Learning Price Predictor Model
 ##### By Randy Kubheka
 
 ## Overview
